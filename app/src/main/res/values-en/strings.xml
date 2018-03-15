@@ -10,7 +10,7 @@
     <string name="cash_earnings_text">$1.173.000</string>
     <string name="percentage_earnings_text">+13%</string>
     <string name="cash_expenses_text">$3.747.000</string>
-    <string name="expenses_text">Expenses</string>
     <string name="transaction_history_text">Transaction history</string>
     <string name="mercado_libre_text">Free Marker</string>
+    <string name="expenses">Expenses</string>
 </resources>

@@ -130,7 +130,7 @@
                     android:textSize="10sp"
                     android:layout_marginTop="2dp"
                     android:layout_alignLeft="@+id/textViewCashExpenses"
-                    android:text="Gastos"/>
+                    android:text="@string/expenses"/>
 
                 <TextView
                     android:layout_width="wrap_content"
